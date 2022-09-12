@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/davidhu3141/ReactHW/static/css/main.830aab9c.css",
-    "main.js": "/davidhu3141/ReactHW/static/js/main.29d319c2.js",
-    "static/js/787.a6abf625.chunk.js": "/davidhu3141/ReactHW/static/js/787.a6abf625.chunk.js",
-    "index.html": "/davidhu3141/ReactHW/index.html",
-    "main.830aab9c.css.map": "/davidhu3141/ReactHW/static/css/main.830aab9c.css.map",
-    "main.29d319c2.js.map": "/davidhu3141/ReactHW/static/js/main.29d319c2.js.map",
-    "787.a6abf625.chunk.js.map": "/davidhu3141/ReactHW/static/js/787.a6abf625.chunk.js.map"
+    "main.css": "/ReactHW/static/css/main.830aab9c.css",
+    "main.js": "/ReactHW/static/js/main.287f9b6d.js",
+    "static/js/787.a6abf625.chunk.js": "/ReactHW/static/js/787.a6abf625.chunk.js",
+    "index.html": "/ReactHW/index.html",
+    "main.830aab9c.css.map": "/ReactHW/static/css/main.830aab9c.css.map",
+    "main.287f9b6d.js.map": "/ReactHW/static/js/main.287f9b6d.js.map",
+    "787.a6abf625.chunk.js.map": "/ReactHW/static/js/787.a6abf625.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.830aab9c.css",
-    "static/js/main.29d319c2.js"
+    "static/js/main.287f9b6d.js"
   ]
 }
